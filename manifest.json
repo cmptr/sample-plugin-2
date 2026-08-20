@@ -1,11 +1,10 @@
 {
 	"id": "cmptr-sample-test",
-	"name": "Cmptr Sample Plugin",
+	"name": "Cmptr Sample",
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "A tiny sandbox for exercising directory submission, review, and lifecycle flows.",
+	"author": "cmptr",
+	"authorUrl": "https://github.com/cmptr",
 	"isDesktopOnly": false
 }
